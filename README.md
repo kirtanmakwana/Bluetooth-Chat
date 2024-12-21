@@ -67,5 +67,3 @@ This project is a simple Bluetooth chat application developed using Python. It a
 - OpenAI for generating this README template
 
 ---
-
-Replace `"image.png"` with your actual image file if you have a screenshot or diagram. Let me know if you need further customization!
